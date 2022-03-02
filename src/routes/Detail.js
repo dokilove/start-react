@@ -23,10 +23,10 @@ function Detail() {
       ) : (
         <div>
           <h1>{detail.title_long}</h1>
-          <img src={detail.large_cover_image} />
           <h2>
             {detail.rating} / {detail.runtime} min / {detail.year}
           </h2>
+          <img src={detail.large_cover_image} />
           <img src={detail.background_image} />
         </div>
       )}
