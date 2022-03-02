@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/start-react/static/js/main.e46789e9.js",
+    "index.html": "/start-react/index.html",
+    "main.e46789e9.js.map": "/start-react/static/js/main.e46789e9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e46789e9.js"
+  ]
+}
