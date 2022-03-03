@@ -1,0 +1,32 @@
+@import "reset.css";
+
+.title {
+  font-size: 26px;
+  background-color: white;
+  margin: 10px;
+  padding: 5px;
+  width: 30vw;
+}
+
+.info {
+  font-size: 20px;
+  background-color: white;
+  margin: 10px;
+  padding: 5px;
+  width: 30vw;
+}
+
+.coverImg {
+  margin: 10px;
+  width: 30vw;
+}
+
+.bgImg {
+  z-index: -1;
+  display: flex;
+  position: absolute;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+}
